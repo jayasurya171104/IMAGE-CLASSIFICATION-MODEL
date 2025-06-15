@@ -83,3 +83,6 @@ Trained model file (optional)
 Sample predictions (optional)
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8dfbc96c-a921-4e1d-9843-4fdacb81dd7a)
+![Image](https://github.com/user-attachments/assets/5ad33a6a-d1ec-4fb2-9979-34510dd9bed0)
