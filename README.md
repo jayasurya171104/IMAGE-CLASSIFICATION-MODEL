@@ -84,5 +84,6 @@ Sample predictions (optional)
 
 ## OUTPUT
 
-![Image](https://github.com/user-attachments/assets/8dfbc96c-a921-4e1d-9843-4fdacb81dd7a)
-![Image](https://github.com/user-attachments/assets/5ad33a6a-d1ec-4fb2-9979-34510dd9bed0)
+![Image](https://github.com/user-attachments/assets/957e0249-d2e0-4d19-8bbc-80da9390e6a5)
+![Image](https://github.com/user-attachments/assets/c1c1e9d7-ee72-4ce0-bfb1-c028d519c13a)
+![Image](https://github.com/user-attachments/assets/6921474a-72eb-4eb8-9d11-cc5fb2f6a197)
